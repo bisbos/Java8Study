@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="60ab9105-8a57-4aee-99db-e354f817d589" name="Default" comment="" />
+    <list default="true" id="60ab9105-8a57-4aee-99db-e354f817d589" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java8Study/com/java8/data/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java8Study/com/java8/data/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java8Study/com/java8/data/StudentDataBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java8Study/com/java8/data/StudentDataBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java8/data/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java8/data/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java8/data/StudentDataBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java8/data/StudentDataBase.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -11,7 +18,118 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="StreamsTerminalStudy.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/java8/streamApi/streams_terminal/StreamsTerminalStudy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="641">
+              <caret line="76" column="41" selection-start-line="76" selection-start-column="41" selection-end-line="76" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StreamsTerminalGroupingByEx2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/java8/streamApi/streams_terminal/StreamsTerminalGroupingByEx2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="11" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="21" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#313#314#0" expanded="true" />
+                <element signature="e#349#350#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StreamsTerminalCountingEx.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/java8/streamApi/streams_terminal/StreamsTerminalCountingEx.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StreamsTerminalGroupingByEx.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/java8/streamApi/streams_terminal/StreamsTerminalGroupingByEx.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="32" column="11" lean-forward="true" selection-start-line="29" selection-start-column="8" selection-end-line="32" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StreamsTerminalGroupingByEx1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/java8/streamApi/streams_terminal/StreamsTerminalGroupingByEx1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="11" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="24" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NumericStreamsAggreagteExample.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/java8/streamApi/streams_numeric/NumericStreamsAggreagteExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StreamsTerminalMinByMaxByEx.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/java8/streamApi/streams_terminal/StreamsTerminalMinByMaxByEx.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SortJava8.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/java8/streamApi/SortJava8.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="555">
+              <caret line="43" column="56" selection-start-line="43" selection-start-column="56" selection-end-line="43" selection-end-column="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EmployeeDatabase.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/java8/data/EmployeeDatabase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="15" column="66" selection-start-line="15" selection-start-column="66" selection-end-line="15" selection-end-column="66" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -20,13 +138,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/java8/RunnableLambdaExample.java" />
-        <option value="$PROJECT_DIR$/src/com/java8/ComparatorLambdaExample.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/java8/data/Student.java" />
         <option value="$PROJECT_DIR$/src/com/java8/functionalInterfaces/ConsumerExample.java" />
         <option value="$PROJECT_DIR$/src/com/java8/functionalInterfaces/BiConsumerExample.java" />
         <option value="$PROJECT_DIR$/src/com/java8/functionalInterfaces/PredicateExample.java" />
@@ -36,6 +154,47 @@
         <option value="$PROJECT_DIR$/src/com/java8/functionalInterfaces/BinaryOperatorExample.java" />
         <option value="$PROJECT_DIR$/src/com/java8/functionalInterfaces/SupplierExample.java" />
         <option value="$PROJECT_DIR$/src/com/java8/methodreferences/FunctionMethodReferenceEx.java" />
+        <option value="$PROJECT_DIR$/src/com/java8/methodreferences/StaticMethodReference.java" />
+        <option value="$PROJECT_DIR$/src/com/java8/methodreferences/StaticMethodReference/Numbers.java" />
+        <option value="$PROJECT_DIR$/src/com/java8/methodreferences/ObjOfParticularTypeMethodReference.java" />
+        <option value="$PROJECT_DIR$/src/com/java8/methodreferences/ObjOfParticularTypeMethodReference/Shipment.java" />
+        <option value="$PROJECT_DIR$/src/com/java8/methodreferences/InstanceMethodExistingObjectMethodReference/Car.java" />
+        <option value="$PROJECT_DIR$/src/com/java8/methodreferences/InstanceMethodExistingObjectMethodReference/Mechanic.java" />
+        <option value="$PROJECT_DIR$/src/com/java8/streamApi/FirstStream.java" />
+        <option value="$PROJECT_DIR$/src/com/java8/streamApi/SecondStream.java" />
+        <option value="$PROJECT_DIR$/src/com/java8/streamApi/StreamsMapExample.java" />
+        <option value="$PROJECT_DIR$/src/com/java8/streamApi/StreamsFlatMapExample.java" />
+        <option value="$PROJECT_DIR$/src/com/java8/streamApi/SortArrayListJava.java" />
+        <option value="$PROJECT_DIR$/src/com/java8/streamApi/SortJava8.java" />
+        <option value="$PROJECT_DIR$/src/com/java8/streamApi/StreamReduceExample1.java" />
+        <option value="$PROJECT_DIR$/src/com/java8/data/Student.java" />
+        <option value="$PROJECT_DIR$/src/com/java8/data/StudentDataBase.java" />
+        <option value="$PROJECT_DIR$/src/com/java8/streamApi/StreamsReduceExample1.java" />
+        <option value="$PROJECT_DIR$/src/com/java8/streamApi/StreamsMapReduceExample.java" />
+        <option value="$PROJECT_DIR$/src/com/java8/streamApi/StreamsReduceExample.java" />
+        <option value="$PROJECT_DIR$/src/com/java8/streamApi/StreamsReduceMinMaxExample.java" />
+        <option value="$PROJECT_DIR$/src/com/java8/streamApi/numericstreams/NumericStreamsExample.java" />
+        <option value="$PROJECT_DIR$/src/com/java8/streamApi/NumericStreamsExample.java" />
+        <option value="$PROJECT_DIR$/src/com/java8/streamApi/NumericStreamsAggreagteExample.java" />
+        <option value="$PROJECT_DIR$/src/com/java8/streamApi/NumericStreamBoxingUnboxingEx.java" />
+        <option value="$PROJECT_DIR$/src/com/java8/streamApi/NumericStreamsMapEx.java" />
+        <option value="$PROJECT_DIR$/src/com/java8/streamApi/StreamsTerminalJoiningEx.java" />
+        <option value="$PROJECT_DIR$/src/com/java8/streamApi/StreamsTerminalCountingEx.java" />
+        <option value="$PROJECT_DIR$/src/com/java8/streamApi/StreamsTerminalMappingEx.java" />
+        <option value="$PROJECT_DIR$/src/com/java8/streamApi/StreamsTerminalMinByMaxByEx.java" />
+        <option value="$PROJECT_DIR$/src/com/java8/streamApi/streams_terminal/StreamsTerminalCountingEx.java" />
+        <option value="$PROJECT_DIR$/src/com/java8/streamApi/streams_numeric/NumericStreamBoxingUnboxingEx.java" />
+        <option value="$PROJECT_DIR$/src/com/java8/streamApi/streams_terminal/StreamsTerminalSumAvgEx.java" />
+        <option value="$PROJECT_DIR$/src/com/java8/streamApi/streams_terminal/StreamsTerminalGroupingByEx.java" />
+        <option value="$PROJECT_DIR$/src/com/java8/streamApi/streams_terminal/StreamsTerminalGroupingByEx1.java" />
+        <option value="$PROJECT_DIR$/src/com/java8/streamApi/streams_terminal/StreamsTerminalGroupingByEx2.java" />
+        <option value="$PROJECT_DIR$/src/com/java8/streamApi/streams_terminal/StreamsTerminalGroupingByEx3.java" />
+        <option value="$PROJECT_DIR$/src/com/java8/streamApi/streams_terminal/StreamsTerminalPartitioningByEx.java" />
+        <option value="$PROJECT_DIR$/src/com/java8/data/Employee.java" />
+        <option value="$PROJECT_DIR$/src/com/java8/StreamApiStudy.java" />
+        <option value="$PROJECT_DIR$/src/com/java8/streamApi/streams_terminal/StreamApiStudy.java" />
+        <option value="$PROJECT_DIR$/src/com/java8/data/EmployeeDatabase.java" />
+        <option value="$PROJECT_DIR$/src/com/java8/streamApi/streams_terminal/StreamsTerminalStudy.java" />
       </list>
     </option>
   </component>
@@ -48,17 +207,20 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="y" value="23" />
     <option name="width" value="1680" />
     <option name="height" value="961" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -79,49 +241,38 @@
             </path>
             <path>
               <item name="Java8Study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Java8Study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java8" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java8Study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="Java8Study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java8" type="462c0819:PsiDirectoryNode" />
+              <item name="streamApi" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java8Study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="Java8Study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java8" type="462c0819:PsiDirectoryNode" />
+              <item name="streamApi" type="462c0819:PsiDirectoryNode" />
+              <item name="streams_numeric" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java8Study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java8Study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java8Study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-              <item name="function" type="462c0819:PsiDirectoryNode" />
+              <item name="Java8Study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java8" type="462c0819:PsiDirectoryNode" />
+              <item name="streamApi" type="462c0819:PsiDirectoryNode" />
+              <item name="streams_terminal" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -145,71 +296,71 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FunctionMethodReferenceEx">
-    <configuration name="BinaryOperatorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java8.functionalInterfaces.BinaryOperatorExample" />
+  <component name="RunManager" selected="Application.StreamsTerminalGroupingByEx1">
+    <configuration name="StreamsTerminalGroupingByEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java8.streamApi.streams_terminal.StreamsTerminalGroupingByEx1" />
       <module name="Java8Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java8.functionalInterfaces.*" />
+          <option name="PATTERN" value="com.java8.streamApi.streams_terminal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="FunctionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java8.functionalInterfaces.FunctionExample" />
+    <configuration name="StreamsTerminalGroupingByEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java8.streamApi.streams_terminal.StreamsTerminalGroupingByEx2" />
       <module name="Java8Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java8.functionalInterfaces.*" />
+          <option name="PATTERN" value="com.java8.streamApi.streams_terminal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="FunctionMethodReferenceEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java8.methodreferences.FunctionMethodReferenceEx" />
+    <configuration name="StreamsTerminalGroupingByEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java8.streamApi.streams_terminal.StreamsTerminalGroupingByEx3" />
       <module name="Java8Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java8.methodreferences.*" />
+          <option name="PATTERN" value="com.java8.streamApi.streams_terminal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="SupplierExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java8.functionalInterfaces.SupplierExample" />
+    <configuration name="StreamsTerminalPartitioningByEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java8.streamApi.streams_terminal.StreamsTerminalPartitioningByEx" />
       <module name="Java8Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java8.functionalInterfaces.*" />
+          <option name="PATTERN" value="com.java8.streamApi.streams_terminal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="UnaryOperatorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java8.functionalInterfaces.UnaryOperatorExample" />
+    <configuration name="StreamsTerminalStudy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java8.streamApi.streams_terminal.StreamsTerminalStudy" />
       <module name="Java8Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java8.functionalInterfaces.*" />
+          <option name="PATTERN" value="com.java8.streamApi.streams_terminal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <list>
-      <item itemvalue="Application.FunctionExample" />
-      <item itemvalue="Application.UnaryOperatorExample" />
-      <item itemvalue="Application.BinaryOperatorExample" />
-      <item itemvalue="Application.SupplierExample" />
-      <item itemvalue="Application.FunctionMethodReferenceEx" />
+      <item itemvalue="Application.StreamsTerminalGroupingByEx1" />
+      <item itemvalue="Application.StreamsTerminalGroupingByEx2" />
+      <item itemvalue="Application.StreamsTerminalGroupingByEx3" />
+      <item itemvalue="Application.StreamsTerminalPartitioningByEx" />
+      <item itemvalue="Application.StreamsTerminalStudy" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FunctionMethodReferenceEx" />
-        <item itemvalue="Application.SupplierExample" />
-        <item itemvalue="Application.BinaryOperatorExample" />
-        <item itemvalue="Application.UnaryOperatorExample" />
-        <item itemvalue="Application.FunctionExample" />
+        <item itemvalue="Application.StreamsTerminalStudy" />
+        <item itemvalue="Application.StreamsTerminalPartitioningByEx" />
+        <item itemvalue="Application.StreamsTerminalGroupingByEx3" />
+        <item itemvalue="Application.StreamsTerminalGroupingByEx2" />
+        <item itemvalue="Application.StreamsTerminalGroupingByEx1" />
       </list>
     </recent_temporary>
   </component>
@@ -227,15 +378,19 @@
       <workItem from="1538597312483" duration="69000" />
       <workItem from="1538597402009" duration="7886000" />
       <workItem from="1538672843987" duration="581000" />
-      <workItem from="1542240632526" duration="611000" />
+      <workItem from="1542240632526" duration="7425000" />
+      <workItem from="1542406018649" duration="20250000" />
+      <workItem from="1543188843270" duration="18607000" />
+      <workItem from="1544119606212" duration="567000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16289000" />
+    <option name="totallyTimeSpent" value="62527000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="961" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -246,12 +401,12 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32818073" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info anchor="bottom" id="Run with VisualVM" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26190478" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27106228" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -260,13 +415,13 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39952436" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug with VisualVM" order="7" />
-      <window_info anchor="bottom" id="Messages" order="7" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32936978" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -276,233 +431,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/function/Consumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java8/functionalInterfaces/BiFunctionExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="26" column="10" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java8/functionalInterfaces/FunctionExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="46" selection-start-line="46" selection-end-line="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java8/functionalInterfaces/BinaryOperatorExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="16" column="63" selection-start-line="16" selection-start-column="63" selection-end-line="16" selection-end-column="63" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java8/functionalInterfaces/SupplierExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java8/data/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java8/data/StudentDataBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java8/methodreferences/FunctionMethodReferenceEx.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/function/Consumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java8/functionalInterfaces/BiFunctionExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="26" column="10" lean-forward="true" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java8/functionalInterfaces/FunctionExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="46" selection-start-line="46" selection-end-line="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java8/functionalInterfaces/BinaryOperatorExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="16" column="63" lean-forward="true" selection-start-line="16" selection-start-column="63" selection-end-line="16" selection-end-column="63" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java8/functionalInterfaces/SupplierExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="12" column="43" lean-forward="true" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java8/data/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java8/data/StudentDataBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java8/methodreferences/FunctionMethodReferenceEx.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/function/Consumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java8/data/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java8/data/StudentDataBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java8/functionalInterfaces/PredicateExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/function/Consumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java8/data/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java8/data/StudentDataBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java8/functionalInterfaces/PredicateExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java8/ComparatorLambdaExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/java8/RunnableLambdaExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -538,20 +466,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java8/data/StudentDataBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java8/data/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/java8/functionalInterfaces/UnaryOperatorExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -577,29 +491,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="26" column="10" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java8/functionalInterfaces/FunctionExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="46" selection-start-line="46" selection-end-line="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java8/functionalInterfaces/BinaryOperatorExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="16" column="63" selection-start-line="16" selection-start-column="63" selection-end-line="16" selection-end-column="63" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -610,10 +501,345 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/methodreferences/Shipment.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/java8/methodreferences/StaticMethodReference.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/java8/methodreferences/ObjOfParticularTypeMethodReference.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/java8/methodreferences/StaticMethodReference/Numbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/methodreferences/InstanceMethodExistingObjectMethodReference.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/java8/methodreferences/InstanceMethodExistingObjectMethodReference/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/methodreferences/ObjOfParticularTypeMethodReference/Shipment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/methodreferences/InstanceMethodExistingObjectMethodReference/Mechanic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/functionalInterfaces/FunctionExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="485">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/streamApi/StreamsFlatMapExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/functionalInterfaces/BinaryOperatorExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/data/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
+          <folding>
+            <element signature="e#303#304#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#382#383#0" expanded="true" />
+            <element signature="e#424#425#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/streamApi/FirstStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/streamApi/SecondStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="20" column="103" lean-forward="true" selection-start-line="20" selection-start-column="103" selection-end-line="20" selection-end-column="103" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/streamApi/StreamsMapExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/streamApi/SortArrayListJava.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="51" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/java8/functionalInterfaces/SupplierExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/streamApi/streams_terminal/StreamsTerminalJoiningEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/streamApi/streams_numeric/NumericStreamBoxingUnboxingEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/streamApi/streams_numeric/NumericStreamsExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/streamApi/streams_numeric/NumericStreamsMapEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/streamApi/StreamsMapReduceExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/streamApi/StreamsReduceExample1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/streamApi/StreamsReduceMinMaxExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/streamApi/StreamsReduceExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="22" column="135" selection-start-line="22" selection-start-column="135" selection-end-line="22" selection-end-column="135" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/stream/Collectors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="900" column="23" selection-start-line="900" selection-start-column="23" selection-end-line="900" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/streamApi/streams_terminal/StreamsTerminalPartitioningByEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
+            <element signature="e#359#360#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/data/StudentDataBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="27" column="125" selection-start-line="27" selection-start-column="125" selection-end-line="27" selection-end-column="125" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/streamApi/streams_terminal/StreamsTerminalGroupingByEx3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="20" column="41" lean-forward="true" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#358#359#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/streamApi/streams_terminal/StreamsTerminalSumAvgEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="41" lean-forward="true" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/data/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/streamApi/streams_terminal/StreamsTerminalMappingEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/data/EmployeeDatabase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="66" selection-start-line="15" selection-start-column="66" selection-end-line="15" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/streamApi/SortJava8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="43" column="56" selection-start-line="43" selection-start-column="56" selection-end-line="43" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/streamApi/streams_terminal/StreamsTerminalStudy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="641">
+          <caret line="76" column="41" selection-start-line="76" selection-start-column="41" selection-end-line="76" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/streamApi/streams_terminal/StreamsTerminalCountingEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/streamApi/streams_terminal/StreamsTerminalGroupingByEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="11" lean-forward="true" selection-start-line="29" selection-start-column="8" selection-end-line="32" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/streamApi/streams_terminal/StreamsTerminalGroupingByEx1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="11" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="24" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/streamApi/streams_terminal/StreamsTerminalGroupingByEx2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="11" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="21" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+            <element signature="e#349#350#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/streamApi/streams_numeric/NumericStreamsAggreagteExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/streamApi/streams_terminal/StreamsTerminalMinByMaxByEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
